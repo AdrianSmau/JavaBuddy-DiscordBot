@@ -6,4 +6,5 @@ Mosor Andrei - Implemented the '-gif' command, which uses the Giphy API in order
 <br>
 The Main layout of the program (implementation of Listener, CommandManager, CommandInterface, CommandContext, creation of Bot in Discord Developer Portal) was implemented in a Gradle program, with the help of the Discord JDA library!<br>
 The RSS Fetch command (implemented via RSS ROME), implementing the Fetcher was a team effort by both of us. We implemented a Map which allows the user to select the Feed he wants to fetch, as well as the number of news he wants to read. The latest posts from the selected Feed will be displayed. The '-rssinfo' Command allows the User to get more information regarding the use of this command!<br>
-The project source compatibility is set to Java Version 15.
+The project source compatibility is set to Java Version 15.<br>
+[NOTE] JavaBuddy's Token was changed since it was compromised by posting it on GitHub!
