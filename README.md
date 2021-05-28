@@ -8,3 +8,4 @@ The Main layout of the program (implementation of Listener, CommandManager, Comm
 The RSS Fetch command (implemented via RSS ROME), implementing the Fetcher was a team effort by both of us. We implemented a Map which allows the user to select the Feed he wants to fetch, as well as the number of news he wants to read. The latest posts from the selected Feed will be displayed. The '-rssinfo' Command allows the User to get more information regarding the use of this command!<br>
 The project source compatibility is set to Java Version 15.<br>
 [NOTE] JavaBuddy's Token was changed since it was compromised by posting it on GitHub!
+![alt text](https://github.com/AdrianSmau/JavaBuddy-DiscordBot/blob/main/JavaBuddy-commands.JPG?raw=true)
